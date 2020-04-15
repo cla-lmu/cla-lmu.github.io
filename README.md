@@ -1,6 +1,6 @@
 # Computerlinguistische Anwendungen
 ### Anwendung maschineller Lernverfahren in Python
-### Sommersemester 2019
+### Sommersemester 2020
 ### Centrum für Informations- und Sprachverarbeitung, LMU München
 
 **Die Veranstaltung wird online durchgeführt. Details folgen in den nächsten Tagen**
