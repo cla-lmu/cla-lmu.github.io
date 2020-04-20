@@ -12,7 +12,7 @@
 - Für die bearbeitung und Abgabe der Programmier-Übungen benötigen Sie einen GitLab Account des IFI: 
   - [Mehr Informationen](https://www.rz.ifi.lmu.de/infos/gitlab_de.html)
   - Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://docs.google.com/forms/d/e/1FAIpQLSeruhcBY-yY3ixE2NKpUlrVG17RLpkv8UvQVhXdgTgo3ET4ww/viewform?usp=sf_link)
-- Für die Teilnahme an der Sprechstunde ist es notwendig ein Webformular auszufüllen. Bitte geben Sie spätestens die Fragen einen Tag vor der Sprechstunde ab: [Webformular](https://docs.google.com/forms/d/e/1FAIpQLScPGLfEU67chJU8Koazov6GT2ZF95lPKKa72ggII0_ripC0mQ/viewform?usp=sf_link)
+- Für die Teilnahme an der Livesprechstunde verwenden wir [Zoom](https://lmu-munich.zoom.us/). Es ist auch notwendig ein Webformular auszufüllen. Bitte reichen Sie spätestens die Fragen einen Tag vor der Sprechstunde ein: [Webformular](https://docs.google.com/forms/d/e/1FAIpQLScPGLfEU67chJU8Koazov6GT2ZF95lPKKa72ggII0_ripC0mQ/viewform?usp=sf_link)
 
 Frequently asked questions: [FAQ](faq)
 
@@ -22,6 +22,7 @@ cla2020 [at] cis [dot] uni [minus] muenchen [dot] de
 
  - Zeit/Vorlesung: Mi 14:00-17:00 (c.t.), Start: 22. April 2020
  - Zeit/Übung: Fr 12:00-14:00 (c.t.)
+ - Zeit/Sprechstunde: Do 10:00-12:00 (c.t.)
  - Dozent: Benjamin Roth
  - Tutoren: Leonhard Wabro, Yindong Wang 
 
