@@ -9,10 +9,11 @@
   - [Moodle-Kurs](https://moodle.lmu.de/course/view.php?id=7756)
   - Verwenden Sie den Einschreibeschlüssel **cla2020**
 - Für die Teilnahme an den Livestreams zur Übung Freitags verwenden wir [Zoom](https://lmu-munich.zoom.us/)
+- Für die Teilnahme an der Livesprechstunde Donnerstags verwenden wir auch [Zoom](https://lmu-munich.zoom.us/). Es ist auch notwendig ein Webformular auszufüllen. Bitte reichen Sie spätestens die Fragen einen Tag vor der Sprechstunde ein: [Webformular](https://docs.google.com/forms/d/e/1FAIpQLScPGLfEU67chJU8Koazov6GT2ZF95lPKKa72ggII0_ripC0mQ/viewform?usp=sf_link)
+
 - Für die bearbeitung und Abgabe der Programmier-Übungen benötigen Sie einen GitLab Account des IFI: 
   - [Mehr Informationen](https://www.rz.ifi.lmu.de/infos/gitlab_de.html)
   - Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://docs.google.com/forms/d/e/1FAIpQLSeruhcBY-yY3ixE2NKpUlrVG17RLpkv8UvQVhXdgTgo3ET4ww/viewform?usp=sf_link)
-- Für die Teilnahme an der Livesprechstunde verwenden wir [Zoom](https://lmu-munich.zoom.us/). Es ist auch notwendig ein Webformular auszufüllen. Bitte reichen Sie spätestens die Fragen einen Tag vor der Sprechstunde ein: [Webformular](https://docs.google.com/forms/d/e/1FAIpQLScPGLfEU67chJU8Koazov6GT2ZF95lPKKa72ggII0_ripC0mQ/viewform?usp=sf_link)
 
 Frequently asked questions: [FAQ](faq)
 
