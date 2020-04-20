@@ -27,6 +27,6 @@ cla2020 [at] cis [dot] uni [minus] muenchen [dot] de
 
  Anmeldung zur Vorlesung:
  - Studierende mit Computerlinguistik als Hauptfach, und nicht-Informatiker, melden sich bitte über das LSF zur Vorlesung an.
- - Für Studierende mit Informatik als Hauptfach reicht es, das Webformular zur Übungsgruppe auszufüllen (s.u.).
+ - Für Studierende mit Informatik als Hauptfach reicht es, das Webformular zur Übungsgruppe auszufüllen (s.o.).
  
 
