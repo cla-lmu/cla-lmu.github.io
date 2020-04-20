@@ -13,7 +13,7 @@ Sie können den Dozenten und die Tutoren unter der E-Mail Adresse cla2020@cis.un
 - *Wie kann ich einen ssh Schlüssel zu meinem Profil hinzufügen?* <br>
 Mit SSH-Schlüsseln können Sie eine sichere Verbindung zwischen Ihrem Computer und GitLab herstellen. Unter [diesem Link](https://gitlab2.cip.ifi.lmu.de/profile/keys) können Sie einen ssh Schlüssel für Ihren gitlab Account anlegen. Wie man einen ssh Schlüssel erstellen kann [sehen Sie hier](https://gitlab2.cip.ifi.lmu.de/help/ssh/README#generating-a-new-ssh-key-pair).
 - *Ich kann leider eine Bibliothek in Python wie z.B. keras nicht installieren, was soll ich machen?* <br>
-a. Falls Sie Pycharm nutzen, versuchen Sie es bitte hier zu installieren:
+a. Falls Sie Pycharm nutzen, versuchen Sie es bitte hier zu installieren: <br>
 Settings/Preferences  → Project: → Project Interpreter → + → keras eingeben → install package → done <br>
 b. Falls Sie kein Pycharm nutzen, können Sie diesen Befehl im Terminal ausführen:
 pip3 install keras <br>
