@@ -12,7 +12,8 @@
 - Für die bearbeitung und Abgabe der Programmier-Übungen benötigen Sie einen GitLab Account des IFI: 
   - [Mehr Informationen](https://www.rz.ifi.lmu.de/infos/gitlab_de.html)
   - Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://docs.google.com/forms/d/e/1FAIpQLSeruhcBY-yY3ixE2NKpUlrVG17RLpkv8UvQVhXdgTgo3ET4ww/viewform?usp=sf_link)
-- Für die Teilnahme an die Sprechstunde wird verlangt, ein Webformula auszufüllen. 
+- Für die Teilnahme an die Sprechstunde wird verlangt, ein Webformula auszufüllen: [Webformular]
+(https://forms.gle/v9Ayzgc7acY6YEcc6)
 
 Sie erreichen den Dozenten und die Tutoren unter:
 
