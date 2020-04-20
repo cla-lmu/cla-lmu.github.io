@@ -16,7 +16,7 @@
   - [Mehr Informationen](https://www.rz.ifi.lmu.de/infos/gitlab_de.html)
   - Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://docs.google.com/forms/d/e/1FAIpQLSeruhcBY-yY3ixE2NKpUlrVG17RLpkv8UvQVhXdgTgo3ET4ww/viewform?usp=sf_link)
 
-Frequently asked questions: [FAQ](faq)
+Frequently asked questions: [FAQ](faq.md)
 
 Sie erreichen den Dozenten und die Tutoren unter:
 
