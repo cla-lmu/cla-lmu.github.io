@@ -32,4 +32,7 @@ cla2020 [at] cis [dot] uni [minus] muenchen [dot] de
  - Studierende mit Computerlinguistik als Hauptfach, und nicht-Informatiker, melden sich bitte über das LSF zur Vorlesung an.
  - Für Studierende mit Informatik als Hauptfach reicht es, das Webformular zur Übungsgruppe auszufüllen (s.o.).
  
-
+| Datum | Themen | Materialien |
+|-----------------------------|:--------------------------------:|:-------------------------------------------------------------------|
+22.4. | **Vorlesung:** Machine Learning; Perzeptron | Materialien; 1. Moodle-Übung (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
+24.4. | **Übung:** Git; Unit-Tests; Vorstellung 1. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
