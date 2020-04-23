@@ -11,6 +11,7 @@
 - Für die Teilnahme an den Livestreams zur Übung Freitags verwenden wir [Zoom](https://lmu-munich.zoom.us/)
 - Für die Teilnahme an den Livestreams zur Sprechstunde Donnerstags verwenden wir auch [Zoom](https://lmu-munich.zoom.us/)
   - Es ist auch notwendig ein Webformular auszufüllen. Bitte reichen Sie spätestens die Fragen zwei Stunden vor der Sprechstunde ein: [Webformular](https://docs.google.com/forms/d/e/1FAIpQLScPGLfEU67chJU8Koazov6GT2ZF95lPKKa72ggII0_ripC0mQ/viewform?usp=sf_link)
+  
 
 - Für die bearbeitung und Abgabe der Programmier-Übungen benötigen Sie einen GitLab Account des IFI: 
   - [Mehr Informationen](https://www.rz.ifi.lmu.de/infos/gitlab_de.html)
@@ -24,7 +25,8 @@ cla2020 [at] cis [dot] uni [minus] muenchen [dot] de
 
  - Zeit/Vorlesung: Mi 14:00 (Bereitstellung der Vorlesungsaufzeichnungen über Moodle), Start: 22. April 2020
  - Zeit/Übung: Fr 12:00-14:00 (c.t., Livestream mit Zoom, Link wird über Moodle bereitgestellt)
- - Zeit/Sprechstunde: Do 10:00-12:00 (c.t.) Start: 30. April 2020
+ - Zeit/Sprechstunde: Do 10:00-12:00 (c.t.) Start: 30. April 2020 (23. April 12:00 - 14:00 Uhr Sprechstunde für 
+ - Technische Sprechstunde (Tutoren) für dringende Probleme am 23. April  12:00 - 14:00 (Link wird über Moodle bereitgestellt)
  - Dozent: Benjamin Roth
  - Tutoren: Leonhard Wabro, Yindong Wang 
 
