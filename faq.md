@@ -24,6 +24,9 @@ Ein häufiger Fehler ist, dass Sie die Unit Tests nicht im src Ordner ausgeführ
 Beispiel:  python3 -m unittest -v hw01_perceptron/test_perceptron.py
 Falls es trotzdem nicht funktioniert und sie PyCharm benutzen, stellen Sie bitte sicher, dass der src Ordner als “sources root” markiert wurde. <br>
 Rechtsklick auf src → mark directory as → sources root. <br>
-
+- *Kann Ich Moodle-Aufgaben öfter abgeben?* <br>
+Sie können so viele Verusche abgeben wie Sie möchten. Der letzte abgebene Versuch wird bewertet.
+- *Kann ich Moodle-Versuche unterbrechen?* <br>
+Sie können Versuche beenden und später fortsetzen. Dazu können Sie auf "Veruch beenden..." klicken und den Versuch später wieder fortsetzen. Um den Versuch zur Bewertung abzugeben, müssen Sie bei der Zusammenfassung auf "Abgabe" klicken.
 
 
