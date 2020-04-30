@@ -34,7 +34,7 @@ cla2020 [at] cis [dot] uni [minus] muenchen [dot] de
  - Für Studierende mit Informatik als Hauptfach reicht es, das Webformular zur Übungsgruppe auszufüllen (s.o.).
  
 | Datum | Themen | Materialien |
-|-----------------------------|:--------------------------------:|:-------------------------------------------------------------------|
+|-----------------------------|:--------------------------------|:-------------------------------------------------------------------|
 22.4. | **Vorlesung:** Machine Learning; Perzeptron | Materialien; 1. Moodle-Übung (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
 24.4. | **Übung:** Vorstellung 1. Programmierübung; Git; Unit-Tests | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)); [enron.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/enron.tgz) |
 29.4. | **Vorlesung:** Paraphrasen-Erkennung; Numpy; Scikit-Learn | Materialien; 2. Moodle-Übung (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
