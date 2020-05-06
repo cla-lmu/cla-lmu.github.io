@@ -40,5 +40,5 @@ cla2020 [at] cis [dot] uni [minus] muenchen [dot] de
 29.4. | **Vorlesung:** Paraphrasen-Erkennung; Numpy; Scikit-Learn | Materialien; 2. Moodle-Übung (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
 1.5. | **Feiertag / keine Übung** |  |
 6.5. | **Besprechung der Moodle-Übungen 1 und 2** | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
-8.5. | **Übung:** Besprechung 1. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
+8.5. | **Übung:** Besprechung 1. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)); [paraphrases.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/paraphrases.tgz)  |
 
