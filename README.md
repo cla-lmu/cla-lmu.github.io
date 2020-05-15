@@ -24,7 +24,7 @@ Sie erreichen den Dozenten und die Tutoren unter:
 cla2020 [at] cis [dot] uni [minus] muenchen [dot] de
 
  - Zeit/Vorlesung: Mi 14:00 (Bereitstellung der Vorlesungsaufzeichnungen über Moodle), Start: 22. April 2020
- - Zeit/Übung: Fr 12:00-14:00 (c.t., Livestream mit Zoom, Link wird über Moodle bereitgestellt)
+ - Zeit/Übung: Fr 12:00-14:00 (**s.t.**, Livestream mit Zoom, Link wird über Moodle bereitgestellt)
  - Zeit/Sprechstunde: Do 10:00-12:00 (c.t.) Start: 30. April 2020 [Webformular](https://forms.gle/ppm49QruFsmFGJBx5)
  - Dozent: Benjamin Roth
  - Tutoren: Leonhard Wabro, Yindong Wang 
