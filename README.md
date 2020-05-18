@@ -43,6 +43,8 @@ cla2020 [at] cis [dot] uni [minus] muenchen [dot] de
 8.5. | **Übung:** Besprechung 1. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)); [paraphrases.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/paraphrases.tgz)  |
 13.5. | **Vorlesung:** MaxEnt Klassifikator; SVM | Materialien; 3. Moodle-Übung (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
 15.5. | **Übung:** Besprechung 2. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756))  |
+20.5. | **Vorlesung:** Wortvektoren | Materialien; 4. Moodle-Übung (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
+22.5. | **Keine Übung** | Bei Fragen nutzen Sie auch die Sprechstunde am Mittwoch |
 
 
 
