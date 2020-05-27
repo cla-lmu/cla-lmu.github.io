@@ -45,6 +45,8 @@ cla2020 [at] cis [dot] uni [minus] muenchen [dot] de
 15.5. | **Übung:** Besprechung 2. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756))  |
 20.5. | **Vorlesung:** Wortvektoren | Materialien; 4. Moodle-Übung (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
 22.5. | **Keine Übung** | Bei Fragen nutzen Sie auch die Sprechstunde am Mittwoch |
+27.5. | **Besprechung der Moodle-Übungen 3 und 4** | 14:00 s.t., Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
+29.5. | **Übung:** Besprechung 3. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756))  |
 
 
 
