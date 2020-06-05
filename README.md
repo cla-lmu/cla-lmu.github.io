@@ -48,3 +48,4 @@ cla2020 [at] cis [dot] uni [minus] muenchen [dot] de
 27.5. | **Besprechung der Moodle-Übungen 3 und 4** | 14:00 s.t., Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) <br/><span style="color:red;">Achtung:</span> Abgabe Programmierübung 04: 03.06.2020 14:00 Uhr |
 29.5. | **Übung:** Besprechung 3. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756))  |
 3.6. | **Vorlesung:** Word2vec Skipgram | Materialien; 5. Moodle-Übung (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) <br/> [cooc_func.nopy](cooc_func.nopy) |
+5.6. | **Übung:** Besprechung 4. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756))  |
