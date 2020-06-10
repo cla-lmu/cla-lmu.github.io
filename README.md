@@ -49,3 +49,6 @@ cla2020 [at] cis [dot] uni [minus] muenchen [dot] de
 29.5. | **Übung:** Besprechung 3. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756))  |
 3.6. | **Vorlesung:** Word2vec Skipgram | Materialien; 5. Moodle-Übung (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) <br/> [cooc_func.nopy](cooc_func.nopy) |
 5.6. | **Übung:** Besprechung 4. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756))  |
+10.6. | **Vorlesung:** Anwendung von Wortvektoren | Materialien; 6. Moodle-Übung (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
+12.6. | **Übung:** Besprechung 5. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756))  |
+
