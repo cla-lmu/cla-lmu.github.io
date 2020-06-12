@@ -19,7 +19,7 @@
  - Die Kurzzusammenfassung muss als PDF abgegeben werden (Email + Moodle).
  - Abgabedatum für die Kurzzusammenfassung ist Montag, 2. August.
  - Insgesamt können Sie 12 Punkte auf die Kurzzusammenfassung erhalten, in die Bewertung fließt ein:
-  - Sinnvoller Aufbau, klare und verständliche Sprache
-  - Beschreibung der Relevanz des Themas, der Intuition des behandelten Verfahrens, Einbettung in einen Gesamtkontext
-  - Formell korrekte Darstellung, korrekte Verwendung von Variablen und Formeln
-  - Wichtig: die Verwendung von Variablen, Formeln und Begriffen muss mit der Vorlesung konsistent sein!
+   - Sinnvoller Aufbau, klare und verständliche Sprache
+   - Beschreibung der Relevanz des Themas, der Intuition des behandelten Verfahrens, Einbettung in einen Gesamtkontext
+   - Formell korrekte Darstellung, korrekte Verwendung von Variablen und Formeln
+   - Wichtig: die Verwendung von Variablen, Formeln und Begriffen muss mit der Vorlesung konsistent sein!
