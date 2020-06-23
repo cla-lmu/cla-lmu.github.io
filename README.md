@@ -54,5 +54,5 @@ cla2020 [at] cis [dot] uni [minus] muenchen [dot] de
 17.6. | **Besprechung der Moodle-Übungen 5 und 6** | 14:00 s.t., Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) 
 19.6. | **Übung:** Besprechung 6. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756))  |
 23.6. | **Vorlesung:** Keras | Materialien; 7. Moodle-Übung (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
-25.6. | **Keine Übung!** | |
+25.6. | **Keine Übungsstunde!** | |
 
