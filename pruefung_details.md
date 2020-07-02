@@ -1,4 +1,4 @@
-**Vorläufiger Plan zur Prüfungsform**
+**Prüfungsform**
  - Eine Klausur ist aufgrund der derzeitigen Auflagen nicht praktikabel, stattdessen gibt es eine alternative Prüfungsform, bestehend aus einer mündlichen Kurzprüfung und einer Kurzzusammenfassung eines Vorlesungsthemas.
  - Sie müssen sich bis zum 9.7. für die Prüfung anmelden (Nicht-Informatiker: LSF, Informatiker: Webformular)
  - Es sind insgesamt bis zu 24 Punkte möglich (12 mündlich + 12 Zusammenfassung), die Bewertung erfolgt durch ein Notenschema, Bonuspunkte aus den Übungen werden wie in einer Klausur angerechnet
