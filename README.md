@@ -6,8 +6,8 @@
 ## Die Veranstaltung wird online durchgeführt.
 ### Bitte richten Sie sich die folgenden Voraussetzungen für die Kursteilnahme ein:
 - Die Prüfung wird online durchgeführt ([Details zur Durchführung](https://cla-lmu.github.io/pruefung_details))
-  - Studierende, deren Fach über LSF verwaltet wird, *müssen* sich über LSF zur Prüfung anmelden.
-  - *alle Teilnehmer/innen müssen* (zusätzlich) bis zum bis zum 9.7.2020 das Zusatz-Formular zur Prüfungsanmeldung in [Moodle](https://moodle.lmu.de/course/view.php?id=7756) ausfüllen.
+  - Studierende, deren Fach über LSF verwaltet wird, **müssen** sich über **LSF** zur Prüfung anmelden.
+  - **alle Teilnehmer/innen müssen** (zusätzlich) bis zum bis zum 9.7.2020 das **Zusatz-Formular zur Prüfungsanmeldung** in [Moodle](https://moodle.lmu.de/course/view.php?id=7756) ausfüllen.
 - Für die Volesungsmaterialien und Moodle-Übungen schreiben Sie sich bitte im Moodle-Kurs ein:
   - [Moodle-Kurs](https://moodle.lmu.de/course/view.php?id=7756)
   - Verwenden Sie den Einschreibeschlüssel **cla2020**
