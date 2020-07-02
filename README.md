@@ -55,4 +55,6 @@ cla2020 [at] cis [dot] uni [minus] muenchen [dot] de
 19.6. | **Übung:** Besprechung 6. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756))  |
 24.6. | **Vorlesung:** Keras | Materialien; 7. Moodle-Übung (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
 26.6. | **Keine Übungsstunde!** | Nutzen Sie bei Fragen auch die Sprechstunde der Tutoren am 24.6. <br> [entities_types.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/entities_types.tgz) |
+1.7. | **Vorlesung:** CNNs | Materialien; 8. Moodle-Übung (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
+3.7. | **Übung:** Besprechung 7. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756))  |
 
