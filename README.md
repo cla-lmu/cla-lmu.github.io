@@ -59,5 +59,11 @@ cla2020 [at] cis [dot] uni [minus] muenchen [dot] de
 24.6. | **Vorlesung:** Keras | Materialien; 7. Moodle-Übung (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
 26.6. | **Keine Übungsstunde!** | Nutzen Sie bei Fragen auch die Sprechstunde der Tutoren am 24.6. <br> [entities_types.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/entities_types.tgz) |
 1.7. | **Vorlesung:** CNNs | Materialien; 8. Moodle-Übung (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
-3.7. | **Übung:** Besprechung 7. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756))  |
+3.7. | **Übung:** Besprechung 7. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
+8.7. | **Besprechung der Moodle-Übungen 7 und 8** | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
+10.7. | **Übung:** Besprechung 8. Programmierübung | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756))  |
+15.7. | **Allgemeine Fragestunde**, letzte Sitzung vor den Prüfungen | Zoom-Link (s. [Moodle](https://moodle.lmu.de/course/view.php?id=7756)) |
+17.7. | **Keine Übung** | |
+20.7. - 24.7. | **Mündliche Kurzprüfungen** | |
+2.8. | **Abgabe-Deadline Kurzzusammenfassung** | |
 
