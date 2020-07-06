@@ -17,7 +17,7 @@
  - Das Thema wird vorgegeben (pro Teilnehmer zufällig ausgewählt), Sie können aber bis zu 3 Vorlesungsthemen (nur für Zusammenfassung, nicht für mündliche Prüfung) ausschließen (bis zum 9.7. via Moodle); Ihr Thema wird Ihnen am 13.7. mitgeteilt.
  - Sie können Deutsch oder Englisch als Sprache wählen.
  - Die Kurzzusammenfassung muss als PDF abgegeben werden (Email + Moodle).
- - Abgabedatum für die Kurzzusammenfassung ist Montag, 2. August.
+ - Abgabedatum für die Kurzzusammenfassung ist Montag, 3. August.
  - Insgesamt können Sie 12 Punkte auf die Kurzzusammenfassung erhalten, in die Bewertung fließt ein:
    - Sinnvoller Aufbau, klare und verständliche Sprache
    - Beschreibung der Relevanz des Themas, der Intuition des behandelten Verfahrens, Einbettung in einen Gesamtkontext
