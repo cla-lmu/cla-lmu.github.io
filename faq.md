@@ -28,5 +28,7 @@ Rechtsklick auf src → mark directory as → sources root. <br>
 Sie können so viele Verusche abgeben wie Sie möchten. Der letzte abgebene Versuch wird bewertet.
 - *Kann ich Moodle-Versuche unterbrechen?* <br>
 Sie können Versuche beenden und später fortsetzen. Dazu können Sie auf "Veruch beenden..." klicken und den Versuch später wieder fortsetzen. Um den Versuch zur Bewertung abzugeben, müssen Sie bei der Zusammenfassung auf "Abgabe" klicken.
-
+- *Keras benötigt TensorFlow 2.2 oder höher, aber pip sagt "requirement already satisfied", wenn man "pip install tensorflow" ausführt.* <br>
+Sie müssen in diesem Fall TensorFlow manuell updaten  mit dem Befehl: <br>
+python3 -m pip install tensorflow --upgrade
 
